@@ -27,5 +27,5 @@ client.user.setGame(`Nothing`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
 });
-
+1commite
 client.login(process.env.BOT_TOKEN);
